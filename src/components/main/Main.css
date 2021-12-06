@@ -1,0 +1,58 @@
+.post{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 80%;
+    
+}
+
+.main-photo{
+    padding-right:3rem;
+    padding-bottom:3rem;
+}
+.info-container{
+    text-align: left;
+    margin-top: 2rem;
+    
+    
+}
+.main-item-category{
+    color: #00EBC1;   
+font-size:14px;
+   line-height: 17px;
+   font-weight: 600;
+   letter-spacing: -0.04em;
+   ;
+   
+
+}
+.main-item-headline{
+    color:white;
+    font-style: normal;
+font-weight: 600;
+line-height: 49px;
+
+letter-spacing: -0.04em;
+
+}
+.main-item-info{
+    color:rgba(114, 117, 154, 1);
+    width: 100%;
+    font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: -0.04em;
+
+}
+.main-item-date{
+    color:rgba(114, 117, 154, 1);
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.04em;
+
+
+}
+
